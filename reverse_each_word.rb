@@ -5,5 +5,5 @@ def reverse_each_word(string)
   array.map do |str|
   reversed << str.reverse
   end
-  binding.pry
+  # binding.pry
 end
